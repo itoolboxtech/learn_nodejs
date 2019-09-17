@@ -10,4 +10,15 @@ for(var i = 1; i <= 100; i++) {
     sum += i;
     }
 console.log(sum);
-
+$ cd:  是change directory的缩写， 改变目录
+另外一个方法用html引用
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <Mmeta charset="UTF-8>
+    <title>Document</title>
+</head>
+<body>
+    <script type="test/javascript" src=""></script>
+</body>
+</html>
